@@ -1,6 +1,6 @@
 # ProMethylNet
 ProMethylNet is a deep learning model that integrates multimodal features, combining MSCANet, GAT, BiLSTM and an attention mechanism, for accurate prediction of protein methylation sites.
-# Evaluation Metrics(on an independent test set)
+# Model
 ## Model Architecture
 ![Architecture Of ProMethylNet](Images/Model_structure_diagram/globalstructurechart.png)
 ## Multi-Scale Convolution-Attention Network Architecture
@@ -9,6 +9,8 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
 ![Graph Neural Network Architecture](Images/Model_structure_diagram/graph_neural_network.png)
 ## BiLSTM Architecture
 ![BiLSTM Architecture](Images/Model_structure_diagram/BidirectionalLSTM.png)
+# Evaluation Metrics(on an independent test set)
+
 
 # Performance Degradation & t-Test Results
 
