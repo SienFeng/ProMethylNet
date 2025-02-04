@@ -1,0 +1,9 @@
+Fold 4 - Accuracy:  99.683%
+Fold 4 - Precision: 88.882%
+Fold 4 - Recall:    89.195%
+Fold 4 - F1-score:  89.038%
+Fold 4 - AUC-ROC:   99.313%
+Fold 4 - MCC:       88.87688%
+Fold 4 - Confusion Matrix:
+[[309352    507]
+ [   491   4053]]

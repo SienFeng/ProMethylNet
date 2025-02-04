@@ -1,0 +1,6 @@
+平均 Accuracy:  98.962%
+平均 Precision: 73.964%
+平均 Recall:    41.494%
+平均 F1-score:  53.064%
+平均 AUC-ROC:   97.677%
+平均 MCC:       54.88972%
