@@ -11,7 +11,7 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
 | **GPU**           | NVIDIA GeForce RTX 4090 24GB        |
 | **Memory**        | 64GB                                 |
 | **Disk**          | 1TB SSD                              |
-| **Operating System** | Windows 10 企业版 LTSC           |
+| **Operating System** | Windows 10 Enterprise LTSC           |
 | **CUDA**          | 11.2.2                               |
 | **cuDNN**         | 8.2.0                                |
 | **IDE**           | Pycharm 2024.3.1.1                  |
