@@ -31,7 +31,7 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
 - **ProtBERT_PSSM enhances classification performance (F1: 93.607%)**, demonstrating the benefits of deep feature representation.
 
 ## Evaluation result for baseline_all_features_all_modules
-
+| ![1](Images/baseline_all_features_all_modules/pr_curve_test.png) | ![2](Images/baseline_all_features_all_modules/roc_curve_test.png) | ![3](Images/baseline_all_features_all_modules/confusion_matrix_test.png) |
 
 
 
