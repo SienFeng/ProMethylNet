@@ -44,6 +44,13 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
     <img src="Images/features_onehot_properties/confusion_matrix_test.png" width="30%">
 </p>
 
+## Evaluation result for features_protbert_pssm
+<p align="center">
+    <img src="Images/features_protbert_pssm/pr_curve_test.png" width="30%">
+    <img src="Images/features_protbert_pssm/roc_curve_test.png" width="30%">
+    <img src="Images/features_protbert_pssm/confusion_matrix_test.png" width="30%">
+</p>
+
 # Performance Degradation & t-Test Results
 ## Experiment Comparison
 | Experiment | F1 Reduction | p-value | AUC Reduction | p-value | MCC Reduction | p-value | Precision Reduction | p-value | Recall Reduction | p-value | Accuracy Reduction | p-value |
