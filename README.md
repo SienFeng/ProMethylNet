@@ -107,6 +107,9 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
     <img src="Images/no_gat/confusion_matrix_test.png" width="30%">
 </p>
 
+## Performance Drop From Baseline
+![Performance Drop From Baseline](Images/Model_structure_diagram/Performance_Drop_from_Baseline.JPG)
+
 
 # Performance Degradation & t-Test Results
 ## Experiment Comparison
