@@ -51,6 +51,63 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
     <img src="Images/features_protbert_pssm/confusion_matrix_test.png" width="30%">
 </p>
 
+## Evaluation result for no_MSCANet
+<p align="center">
+    <img src="Images/no_MSCANet/pr_curve_test.png" width="30%">
+    <img src="Images/no_MSCANet/roc_curve_test.png" width="30%">
+    <img src="Images/no_MSCANet/confusion_matrix_test.png" width="30%">
+</p>
+
+## Evaluation result for no_MSCANet_no_attention
+<p align="center">
+    <img src="Images/no_MSCANet_no_attention/pr_curve_test.png" width="30%">
+    <img src="Images/no_MSCANet_no_attention/roc_curve_test.png" width="30%">
+    <img src="Images/no_MSCANet_no_attention/confusion_matrix_test.png" width="30%">
+</p>
+
+## Evaluation result for no_MSCANet_no_gat
+<p align="center">
+    <img src="Images/no_MSCANet_no_gat/pr_curve_test.png" width="30%">
+    <img src="Images/no_MSCANet_no_gat/roc_curve_test.png" width="30%">
+    <img src="Images/no_MSCANet_no_gat/confusion_matrix_test.png" width="30%">
+</p>
+
+## Evaluation result for no_MSCANet_no_gat_features_protbert_pssm
+<p align="center">
+    <img src="Images/no_MSCANet_no_gat_features_protbert_pssm/pr_curve_test.png" width="30%">
+    <img src="Images/no_MSCANet_no_gat_features_protbert_pssm/roc_curve_test.png" width="30%">
+    <img src="Images/no_MSCANet_no_gat_features_protbert_pssm/confusion_matrix_test.png" width="30%">
+</p>
+
+## Evaluation result for no_attention
+<p align="center">
+    <img src="Images/no_attention/pr_curve_test.png" width="30%">
+    <img src="Images/no_attention/roc_curve_test.png" width="30%">
+    <img src="Images/no_attention/confusion_matrix_test.png" width="30%">
+</p>
+
+## Evaluation result for no_attention_no_lstm_features_onehot_properties
+<p align="center">
+    <img src="Images/no_attention_no_lstm_features_onehot_properties/pr_curve_test.png" width="30%">
+    <img src="Images/no_attention_no_lstm_features_onehot_properties/roc_curve_test.png" width="30%">
+    <img src="Images/no_attention_no_lstm_features_onehot_properties/confusion_matrix_test.png" width="30%">
+</p>
+
+## Evaluation result for no_bilstm
+<p align="center">
+    <img src="Images/no_bilstm/pr_curve_test.png" width="30%">
+    <img src="Images/no_bilstm/roc_curve_test.png" width="30%">
+    <img src="Images/no_bilstm/confusion_matrix_test.png" width="30%">
+</p>
+
+## Evaluation result for no_gat
+<p align="center">
+    <img src="Images/no_gat/pr_curve_test.png" width="30%">
+    <img src="Images/no_gat/roc_curve_test.png" width="30%">
+    <img src="Images/no_gat/confusion_matrix_test.png" width="30%">
+</p>
+
+
 # Performance Degradation & t-Test Results
 ## Experiment Comparison
 | Experiment | F1 Reduction | p-value | AUC Reduction | p-value | MCC Reduction | p-value | Precision Reduction | p-value | Recall Reduction | p-value | Accuracy Reduction | p-value |
