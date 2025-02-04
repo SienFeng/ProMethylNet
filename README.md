@@ -30,10 +30,14 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
 - **No MSCANet + No GAT significantly drops AUC (66.320%)**, showing the importance of feature extraction and graph modeling.
 - **ProtBERT_PSSM enhances classification performance (F1: 93.607%)**, demonstrating the benefits of deep feature representation.
 
+## Evaluation result for baseline_all_features_all_modules
+
+
+
+
+
 # Performance Degradation & t-Test Results
-
 ## Experiment Comparison
-
 | Experiment | F1 Reduction | p-value | AUC Reduction | p-value | MCC Reduction | p-value | Precision Reduction | p-value | Recall Reduction | p-value | Accuracy Reduction | p-value |
 |------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|
 | **no_MSCANet** | 0.1662 | 2.5721e-06 | 0.0027 | 2.6466e-03 | 0.1636 | 7.7692e-07 | 0.0861 | 3.2045e-03 | 0.2284 | 1.5632e-04 | 0.0039 | 4.2393e-06 |
