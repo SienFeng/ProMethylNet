@@ -1,0 +1,15 @@
+paths:
+  fasta_file: 'E:\\Methylation\\Database\\ProteinDatabases\\uniprot_sprot.fasta'
+  tsv_file: 'E:\\Methylation\\Database\\Methylation\\uniprotkb_methylation_AND_reviewed_true_2024_11_01.tsv'
+  output_file: 'E:\\Methylation\\Database\\OutPutFile\\marked_matrix.txt'
+  blast_db: 'E:\\Methylation\\Database\\ProteinDatabases\\Uniprot'
+  output_dir: 'E:/Methylation/project_output/'
+
+model_params:
+  num_iterations: 3
+  batch_size_protbert: 64
+  hidden_channels: 128
+  num_layers: 4
+  patience: 10
+  batch_size: 32
+  epochs: 200
