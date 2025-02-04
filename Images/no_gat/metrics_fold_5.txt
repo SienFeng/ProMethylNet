@@ -1,0 +1,9 @@
+Fold 5 - Accuracy:  99.201%
+Fold 5 - Precision: 73.982%
+Fold 5 - Recall:    69.408%
+Fold 5 - F1-score:  71.622%
+Fold 5 - AUC-ROC:   98.935%
+Fold 5 - MCC:       71.25466%
+Fold 5 - Confusion Matrix:
+[[311583   1125]
+ [  1410   3199]]
