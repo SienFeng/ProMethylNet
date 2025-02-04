@@ -7,6 +7,8 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
 ![Multi-Scale Convolution-Attention Network Architecture](Images/Model_structure_diagram/Multiscale_Convolutional_Neural_Networks.png)
 ## Graph Neural Network Architecture
 ![Graph Neural Network Architecture](Images/Model_structure_diagram/graph_neural_network.png)
+## BiLSTM Architecture
+![BiLSTM Architecture](Images/Model_structure_diagram/BidirectionalLSTM.png)
 
 # Requirement
 ## Hardware and Software Parameters
