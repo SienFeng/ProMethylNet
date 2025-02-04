@@ -10,7 +10,7 @@ ProMethylNet is a deep learning model that integrates multimodal features, combi
 ## BiLSTM Architecture
 ![BiLSTM Architecture](Images/Model_structure_diagram/BidirectionalLSTM.png)
 # Evaluation Metrics(on an independent test set)
-## Model Performance Comparison
+## Performance results of ablation experiments
 | Experiment | Accuracy (%) | Recall (%) | Precision (%) | F1 (%) | AUC (%) | MCC (%) |
 |------------|------------|------------|------------|------------|------------|------------|
 | **Baseline** | 99.752 | 90.361 | 92.480 | 91.408 | 99.359 | 91.289 |
