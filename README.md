@@ -104,6 +104,9 @@ ProMethylNet is a versatile tool applicable in various biological research domai
 ProMethylNet represents a transformative advancement in computational biology. Its integration of multi-modal features and sophisticated neural network architectures establishes a new benchmark for protein methylation site prediction. The model's exceptional accuracy, robustness, and generalizability underscore its potential in diverse biological and medical research applications.
 
 # Requirement
+## Dataset link
+https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/uniprot_sprot.fasta.gz
+https://www.uniprot.org/uniprotkb?query=methylation&facets=reviewed%3Atrue
 ## Hardware and Software Parameters
 | **Component**       | **Specification**                         |
 |--------------------|-------------------------------------|
