@@ -6,7 +6,7 @@ This experiment uses the Uniprot dataset to obtain protein sequences and their m
 
 # Model
 ## Model Architecture
-![Architecture Of ProMethylNet](Images/Model_structure_diagram/Global_structure_diagram.pdf)
+![Architecture Of ProMethylNet](Images/Global_structure.jpg)
 
 ProMethylNet integrates multiple sophisticated components to capture complex sequence-structure-function relationships:
 
