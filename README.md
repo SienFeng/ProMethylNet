@@ -36,13 +36,13 @@ ProMethylNet integrates multiple sophisticated components to capture complex seq
    - Employs early stopping mechanisms to prevent overfitting.
 
 ## Multi-Scale Convolution-Attention Network Architecture
-![Multi-Scale Convolution-Attention Network Architecture](Images/Model_structure_diagram/Multiscale_Convolutional_Neural_Networks.png)
+![Multi-Scale Convolution-Attention Network Architecture](Images/Multiscale_Convolutional_Neural_Networks.png)
 
 ## Graph Neural Network Architecture
-![Graph Neural Network Architecture](Images/Model_structure_diagram/graph_neural_network.png)
+![Graph Neural Network Architecture](Images/graph_neural_network.png)
 
 ## BiLSTM Architecture
-![BiLSTM Architecture](Images/Model_structure_diagram/BidirectionalLSTM.png)
+![BiLSTM Architecture](Images/BidirectionalLSTM.png)
 
 # Evaluation Metrics (on an independent test set)
 ProMethylNet demonstrates state-of-the-art performance across various metrics:
