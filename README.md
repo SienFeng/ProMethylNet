@@ -101,7 +101,7 @@ ProMethylNet is a versatile tool applicable in various biological research domai
 - **Drug Discovery and Precision Medicine**
 
 # Conclusion
-ProMethylNet represents a transformative advancement in computational biology. Its integration of multi-modal features and sophisticated neural network architectures establishes a new benchmark for protein methylation site prediction. The model's exceptional accuracy, robustness, and generalizability underscore its potential in diverse biological and medical research applications.
+ProMethylNet demonstrates promising progress in the task of protein methylation site prediction. By integrating multi-modal features with layered neural network architectures, the model shows improved accuracy and generalizability to some extent. While there remains room for further refinement, its potential applications in biological and medical research are worth continued attention and investigation.
 
 # Requirement
 ## Dataset link
